@@ -1,7 +1,4 @@
 <html>
-<head>
-<title> canvas </title>
-</head>
 <script type="application/processing">
 size(200, 200);
 
@@ -24,7 +21,5 @@ fill(255, 0, 0);
 arc(100, 125, 80, 50, 0, 3.14);
 line(60, 125, 140, 125);
 </script>
-<body>
 <canvas> </canvas>
-</body>
 </html>
